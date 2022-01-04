@@ -49,5 +49,5 @@
 <br>
 
 ## 📃 Github Stats
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=Rapendse123&theme=dark&show_icons=true)](https://github.com/Rapendse123/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rapendse123&layout=compact&theme=dark)](https://github.com/Rapendse123/github-readme-stats)
+[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=restless226&theme=dark&show_icons=true)](https://github.com/restless226/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restless226&layout=compact&theme=dark)](https://github.com/restless226/github-readme-stats)
