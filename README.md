@@ -2,10 +2,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rohit Pendse
 
 ## 😎 About Me
+- 🔭 I’m a Flutter Developer.
 - 🔭 I have good problem-solving skills and I am passionate for learning.
-- 🔭 Interested in using Data Structures and Algorithms to solve real world problems.
-- 🔭 I’m currently working on Flutter Development.
-- 🌱 I’m currently learning MySQL database.
+- 🌱 Interested in using Data Structures and Algorithms to solve real world problems.
 - 💬 Ask me about Flutter.
 
 ## 🤝 Connect with Me
@@ -28,11 +27,10 @@
 ## 🚀 Skills
 
 ### ⚡ Languages
-<code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <br>
 
 ### ⚡ Technologies 
@@ -44,8 +42,8 @@
 <br>
 
 ### ⚡ Databases
-</code><code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.firebase.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
+</code><code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <br>
 
 ## 📃 Github Stats
