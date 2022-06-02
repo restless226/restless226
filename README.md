@@ -8,13 +8,14 @@
 - 💬 Ask me about Flutter.
 
 ## 🤝 Connect with Me
-[<img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" width="40px"/>][linkedInProfile] &nbsp;
-[<img align="center" src="https://user-images.githubusercontent.com/60605251/122860712-d715e680-d33b-11eb-9514-0ce3a989383b.png" width="35px"/>](mailto:rapendse2002@gmail.com) &nbsp;
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="50px"/>][GFGProfile] &nbsp;
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30px"/>][LeetCodeProfile] &nbsp;
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40px"/>][CodechefProfile] &nbsp;
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" width="40px"/>][CodeforcesProfile] &nbsp;
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40px"/>][HackerRankProfile] &nbsp;
+
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" height="40px" width="40px"/>][linkedInProfile] &nbsp; &nbsp;
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" height="40px" width="40px"/>](mailto:rapendse2002@gmail.com) &nbsp; &nbsp;
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" height="40px" width="40px"/>][GFGProfile] &nbsp; &nbsp;
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" height="40px" width="40px"/>][LeetCodeProfile] &nbsp; &nbsp;
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40px" width="40px"/>][CodechefProfile] &nbsp; &nbsp;
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" height="40px" width="40px"/>][CodeforcesProfile] &nbsp; &nbsp;
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" height="40px" width="40px"/>][HackerRankProfile] &nbsp; &nbsp;
 
 
 [linkedInProfile]: https://www.linkedin.com/in/rohit-pendse-13465019b/
