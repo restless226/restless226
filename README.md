@@ -1,17 +1,18 @@
 
 # Hi there 👋 I'm Rohit Pendse
 
-## 😎 About Me
-- 🔭 I’m a Flutter Developer.
-- 🔭 I have good problem-solving skills and I am passionate for learning.
-- 🌱 Interested in using Data Structures and Algorithms to solve real world problems.
-- 💬 Ask me about Flutter.
+## 🙋‍♂️ About Me
+- 🌱 I’m a **Flutter Developer**.
+- 👯 I’m looking to collaborate on **Flutter Development**.
+- 🔭 Interested in using DSA to solve real world problems.
+- 💬 Ask me about **Flutter**.
+- 📫 How to reach me **rapendse2002@gmail.com**.
+
 
 ## 🤝 Connect with Me
-
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" height="40px" width="40px"/>][linkedInProfile] &nbsp; &nbsp;
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" height="40px" width="40px"/>](mailto:rapendse2002@gmail.com) &nbsp; &nbsp;
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" height="40px" width="40px"/>][GFGProfile] &nbsp; &nbsp;
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" height="50px" width="50px"/>][GFGProfile] &nbsp; &nbsp;
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" height="40px" width="40px"/>][LeetCodeProfile] &nbsp; &nbsp;
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40px" width="40px"/>][CodechefProfile] &nbsp; &nbsp;
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" height="40px" width="40px"/>][CodeforcesProfile] &nbsp; &nbsp;
@@ -25,13 +26,13 @@
 [LeetCodeProfile]: https://leetcode.com/restless226/
 [HackerRankProfile]: https://www.hackerrank.com/rapendse2002
 
-## 🚀 Skills
 
+## 🚀 Skills
 ### ⚡ Languages
-<code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://cplusplus.com/" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a></code>
+<code><a href="https://devdocs.io/c/" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></code>
+<code><a href="https://dart.dev/guides" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
+<code><a href="https://docs.oracle.com/en/java/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 <br>
 
 ### ⚡ Technologies 
@@ -48,6 +49,16 @@
 </code><code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <br>
 
-## 📃 Github Stats
-[![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=restless226&theme=dark&show_icons=true)](https://github.com/restless226/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=restless226&layout=compact&theme=dark)](https://github.com/restless226/github-readme-stats)
+
+## 📊 Github Stats
+<p align="center">
+    <a href="https://github.com/restless226/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit Pendse's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=restless226&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+  <br/>
+    <a href="https://github.com/restless226/github-readme-stats"><img alt="Rohit Pendse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=restless226&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/restless226/github-readme-stats"><img alt="Rohit Pendse's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=restless226&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
