@@ -12,35 +12,35 @@
 ## 🤝 Connect with Me
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" height="40px" width="40px"/>][linkedInProfile] &nbsp; &nbsp;
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" height="40px" width="40px"/>](mailto:rapendse2002@gmail.com) &nbsp; &nbsp;
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" height="50px" width="50px"/>][GFGProfile] &nbsp; &nbsp;
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" height="40px" width="40px"/>][LeetCodeProfile] &nbsp; &nbsp;
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40px" width="40px"/>][CodechefProfile] &nbsp; &nbsp;
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" height="40px" width="40px"/>][CodeforcesProfile] &nbsp; &nbsp;
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" height="40px" width="40px"/>][LeetCodeProfile] &nbsp; &nbsp;
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" height="50px" width="50px"/>][GFGProfile] &nbsp; &nbsp;
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" height="40px" width="40px"/>][HackerRankProfile] &nbsp; &nbsp;
 
 
 [linkedInProfile]: https://www.linkedin.com/in/rohit-pendse-13465019b/
-[GFGProfile]: https://auth.geeksforgeeks.org/user/rohitpendse138/practice/
 [CodechefProfile]: https://www.codechef.com/users/rapendse_123
 [CodeforcesProfile]: https://codeforces.com/profile/restless226
 [LeetCodeProfile]: https://leetcode.com/restless226/
+[GFGProfile]: https://auth.geeksforgeeks.org/user/rohitpendse138/practice/
 [HackerRankProfile]: https://www.hackerrank.com/rapendse2002
 
 
 ## 🚀 Skills
 ### ⚡ Languages
-<code><a href="https://cplusplus.com/" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a></code>
 <code><a href="https://devdocs.io/c/" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></code>
-<code><a href="https://dart.dev/guides" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
+<code><a href="https://cplusplus.com/" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a></code>
 <code><a href="https://docs.oracle.com/en/java/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+<code><a href="https://dart.dev/guides" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
 <br>
 
 ### ⚡ Technologies 
 <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
+<code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
-<code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></a></code>
 <code><a href="https://play.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
 <br>
 
