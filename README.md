@@ -4,8 +4,8 @@
 ## 🙋‍♂️ About Me
 - 🌱 **Full Stack Developer** with 2 years of experience.
 - 👯 Expertise in developing real time applications with React.js, Node.js, Redux, JavaScript, TypeScript and MicroServices. 
-- 🔭 Interested in using Data Structures & Algorithms to solve real world problems.
-- 💬 Proficient in the complete end to end development life cycle, engaging with cross-development teams.
+- 🔭 Proficient in the complete end to end development life cycle, engaging with cross-development teams.
+- 💬 Interested in using Data Structures & Algorithms to solve real world problems.
 - 📫 How to reach me **rapendse2002@gmail.com**.
 
 
@@ -20,11 +20,11 @@
 
 
 [linkedInProfile]: https://www.linkedin.com/in/rohit-pendse-13465019b/
-[CodechefProfile]: https://www.codechef.com/users/rapendse_123
-[CodeforcesProfile]: https://codeforces.com/profile/restless226
+[CodechefProfile]: https://www.codechef.com/users/rapendse_123/
+[CodeforcesProfile]: https://codeforces.com/profile/restless226/
 [LeetCodeProfile]: https://leetcode.com/restless226/
 [GFGProfile]: https://auth.geeksforgeeks.org/user/rohitpendse138/practice/
-[HackerRankProfile]: https://www.hackerrank.com/rapendse2002
+[HackerRankProfile]: https://www.hackerrank.com/rapendse2002/
 
 
 ## 🚀 Technical Skills
