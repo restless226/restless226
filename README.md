@@ -2,10 +2,10 @@
 # Hi there 👋 I'm Rohit Pendse
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m a **Flutter Developer**.
-- 👯 I’m looking to collaborate on **Flutter Development**.
-- 🔭 Interested in using DSA to solve real world problems.
-- 💬 Ask me about **Flutter**.
+- 🌱 **Full Stack Developer** with 2 years of experience.
+- 👯 Expertise in developing real time applications with React.js, Node.js, Redux, JavaScript, TypeScript and MicroServices. 
+- 🔭 Interested in using Data Structures & Algorithms to solve real world problems.
+- 💬 Proficient in the complete end to end development life cycle, engaging with cross-development teams.
 - 📫 How to reach me **rapendse2002@gmail.com**.
 
 
