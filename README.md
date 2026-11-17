@@ -1,15 +1,17 @@
-
 # Hi there 👋 I'm Rohit Pendse
 
 ## 🙋‍♂️ About Me
-- 🌱 **Full Stack Developer** with 2 years of experience.
-- 👯 Expertise in developing real time applications with React.js, Node.js, Redux, JavaScript, TypeScript and MicroServices. 
-- 🔭 Proficient in the complete end to end development life cycle, engaging with cross-development teams.
-- 💬 Interested in using Data Structures & Algorithms to solve real world problems.
-- 📫 How to reach me **rapendse2002@gmail.com**.
 
+- 💻 **Software Engineer II at [Reputation](https://www.reputation.com/)** | Ex-Associate Software Engineer at Berkadia.
+- 🚀 Full Stack Developer with **3.5 years of experience** building scalable, real-time, enterprise-grade SaaS applications.
+- ⚡ Experienced in developing end-to-end applications using **React.js, Node.js, JavaScript, TypeScript, Go, and Microservices**.
+- 🏗️ Interested in distributed systems, event-driven architectures, microfrontends, system design, and performance optimisation.
+- 🤖 Working with Generative AI features and AI-assisted development workflows.
+- 🧠 Passionate about Data Structures & Algorithms and solving real-world engineering problems.
+- 📫 Reach me at **rapendse2002@gmail.com**.
 
 ## 🤝 Connect with Me
+
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" height="40px" width="40px"/>][linkedInProfile] &nbsp; &nbsp;
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" height="40px" width="40px"/>](mailto:rapendse2002@gmail.com) &nbsp; &nbsp;
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40px" width="40px"/>][CodechefProfile] &nbsp; &nbsp;
@@ -18,7 +20,6 @@
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" height="50px" width="50px"/>][GFGProfile] &nbsp; &nbsp;
 [<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" height="40px" width="40px"/>][HackerRankProfile] &nbsp; &nbsp;
 
-
 [linkedInProfile]: https://www.linkedin.com/in/rohit-pendse-13465019b/
 [CodechefProfile]: https://www.codechef.com/users/rapendse_123/
 [CodeforcesProfile]: https://codeforces.com/profile/restless226/
@@ -26,42 +27,56 @@
 [GFGProfile]: https://auth.geeksforgeeks.org/user/rohitpendse138/practice/
 [HackerRankProfile]: https://www.hackerrank.com/rapendse2002/
 
-
 ## 🚀 Technical Skills
+
 ### ⚡ Programming Languages
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
-<code><a href="https://dart.dev/guides" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a></code>
-<code><a href="https://devdocs.io/c/" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></code>
-<code><a href="https://cplusplus.com/" target="_blank"><img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></a></code>
-<code><a href="https://docs.oracle.com/en/java/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
-<br>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
 
-### ⚡ Tools and Technologies
-<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-</code><code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
-<code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
-<code><a href="https:#" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https://graphql.org/learn/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></a></code>
-<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-</code><code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
-<code><a href="https://www.firebase.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://github.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></a></code>
-<code><a href="https://www.postman.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></code>
-<code><a href="https://play.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg"></a></code>
-<br>
+### ⚡ Frontend Development
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
 
+### ⚡ Backend Development
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg"></code>
 
-## 📊 Github Stats
+### ⚡ Databases
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg"></code>
+
+### ⚡ Cloud, DevOps & Tools
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+
+**Other Tools:** New Relic, Azure DevOps, Jest, Kibana, OAuth, CI/CD, Single-SPA.
+
+## 📊 GitHub Stats
+
 <p align="center">
     <a href="https://github.com/restless226/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohit Pendse's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=restless226&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="Rohit Pendse's GitHub streak" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=restless226&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
-  <br/>
-    <a href="https://github.com/restless226/github-readme-stats"><img alt="Rohit Pendse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=restless226&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/restless226/github-readme-stats"><img alt="Rohit Pendse's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=restless226&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center">
+    <a href="https://github.com/restless226/github-readme-stats">
+        <img alt="Rohit Pendse's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=restless226&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+    <a href="https://github.com/restless226/github-readme-stats">
+        <img alt="Rohit Pendse's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=restless226&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>
+
+**Note:** Top languages reflect the languages used in public repositories and may not represent professional experience.
